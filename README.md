@@ -1,5 +1,5 @@
-# Sports-based-Research-Projects
---------------------------------
+# Sports-based-Research-Projects;-
+
 'Football-Sports-Datasets-Analysis-using-Computer-Vision-Algorithms'
 
  Main ideas of this project; The main goal of this project is to analyze Football Sports datasets using Computer Vision Algorithms.
