@@ -1,4 +1,4 @@
-# Sports-based-Research-Projects;- Image Processing Project
+# Sports-based-Research-Projects;-
 
 'Football-Sports-Datasets-Analysis-using-Computer-Vision-Algorithms'
 
