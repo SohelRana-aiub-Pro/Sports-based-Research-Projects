@@ -20,13 +20,21 @@ By leveraging YOLOv5, YOLOv8, Roboflow annotated datasets, and computer vision t
 🚀 Project Features
 -----------------------
 ⚽ Football object detection using YOLOv5 and YOLOv8
+
 🧠 Custom object detection model training
+
 📚 Roboflow dataset integration
+
 🎯 Detection of players, footballs, referees, and sports objects
+
 🖼️ Image-based object detection
+
 🎥 Video-based football analysis
+
 📊 Model performance evaluation
+
 📈 Training visualization and metrics analysis
+
 🚀 GPU accelerated deep learning workflow
 
 
@@ -61,21 +69,37 @@ By leveraging YOLOv5, YOLOv8, Roboflow annotated datasets, and computer vision t
 🛠️ Technologies Used
 -----------------------------
 Deep Learning Frameworks
+
 YOLOv5
+
 YOLOv8
+
 Ultralytics YOLO Framework
+
 PyTorch
+
 Computer Vision Libraries
+
 OpenCV
+
 Supervision
+
 Dataset Management
+
 Roboflow
+
 YOLO Annotation Format
+
 Development Environment
+
 Python
+
 Google Colab
+
 NVIDIA CUDA GPU
-AWS
+
+AWS Cloud /EC2 instance
+
 Runpod.io
 
 📂 Dataset Preparation
@@ -127,17 +151,25 @@ YOLOv5 is a highly optimized object detection framework designed for fast and ac
 Available versions:
 -----------------------
 Model	Description
+
 YOLOv5n	Lightweight model
+
 YOLOv5s	Small and fast
+
 YOLOv5m	Balanced accuracy
+
 YOLOv5l	Higher accuracy
+
 YOLOv5x	Maximum accuracy
 
 YOLOv5 is suitable for:
 
 Real-time sports detection
+
 Edge devices
+
 Fast inference applications
+
 YOLOv8
 
 YOLOv8 is the next-generation YOLO framework developed by Ultralytics with improved:
