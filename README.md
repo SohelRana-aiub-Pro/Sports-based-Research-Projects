@@ -362,17 +362,6 @@ Pass detection
 Goal detection
 Tactical recommendation system
 
-📌 Research Contribution
+📌 Research & Developed Contribution
 ------------------------------
 This project demonstrates how deep learning-based object detection can be applied to sports intelligence. YOLOv5 and YOLOv8 provide efficient and accurate solutions for football object detection, enabling the development of automated sports analytics systems.
-
-
-⭐ Acknowledgements
-
-Special thanks to:
-
-Ultralytics YOLO community
-YOLOv5 research contributors
-YOLOv8 development team
-Roboflow computer vision platform
-Open-source AI research community
