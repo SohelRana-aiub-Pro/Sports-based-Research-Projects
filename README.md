@@ -396,4 +396,6 @@ Tactical recommendation system
 
 📌 Research & Developed Contribution
 ------------------------------
+
+
 This project demonstrates how deep learning-based object detection can be applied to sports intelligence. YOLOv5 and YOLOv8 provide efficient and accurate solutions for football object detection, enabling the development of automated sports analytics systems.
